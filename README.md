@@ -2,7 +2,6 @@
 
 This project aims to analyze marketing campaign data and predicting term deposit subscription probability
 
----
 **Marketing**: is the process of promoting and selling products or services to consumers. It involves understanding consumer needs, creating value, and establishing connections between businesses and their target audiences. <br>
 
 **Marketing campaigns**: are characterized by  focusing on the customer needs and their overall satisfaction. Nevertheless, there are different variables that determine whether a marketing campaign will be successful or not. There are certain variables that we need to take into consideration when making a marketing campaign. <br>
