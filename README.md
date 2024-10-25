@@ -60,7 +60,6 @@ Term deposits are considered low-risk investments and are often used as a safe w
 ---
 
 ## Insights from the data
-#### conclusions
 - **Blue-collar workers and entrepreneurs are unlikely to invest in term deposits, while students and retirees are the most likely to do so.**
 - **People with tertiary education tend to invest in term deposits more than others.**
 - **People who have a housing loan tend not to have a term deposit.**
