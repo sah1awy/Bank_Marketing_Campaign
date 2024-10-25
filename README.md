@@ -56,3 +56,14 @@ Term deposits are considered low-risk investments and are often used as a safe w
 <b style="color: green;">Important note: Duration attribute highly affects the output target (e.g., if duration=0 then y='no'). Yet, the duration is not known before a call is performed. Also, after the end of the call y is obviously known. Thus, this input should only be included for benchmark purposes and should be discarded if the intention is to have a realistic predictive model.</p>
 
 <b style="color: green;">Check all the information about the data and how I managed to make decisions.(https://archive.ics.uci.edu/dataset/222/bank+marketing).</p>
+
+---
+
+## Insights from the data
+#### conclusions
+- **Blue-collar workers and entrepreneurs are unlikely to invest in term deposits, while students and retirees are the most likely to do so.**
+- **People with tertiary education tend to invest in term deposits more than others.**
+- **People who have a housing loan tend not to have a term deposit.**
+- **People who have loans tend not to have a term deposit.**
+- **People tend to make term deposits in December, March, September, and October.**
+- **People who have been targeted by successful marketing campaigns tend to invest in term deposits.**
