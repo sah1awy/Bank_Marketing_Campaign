@@ -66,3 +66,5 @@ Term deposits are considered low-risk investments and are often used as a safe w
 - **People who have loans tend not to have a term deposit.**
 - **People tend to make term deposits in December, March, September, and October.**
 - **People who have been targeted by successful marketing campaigns tend to invest in term deposits.**
+- **People without personal loans and housing loans tend to have a high balance and are more likely to obtain a term deposit.**
+- **People who are obtaining term deposits are most likely to be in their thirties and forties.**
